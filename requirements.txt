@@ -1,2 +1,4 @@
+flask
 flask_security
 pysaml2
+requests
