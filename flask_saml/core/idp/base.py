@@ -85,3 +85,7 @@ class BaseIdentityProvider(object):
     def saml_client(self):
         saml_client = Saml2Client(config=self.config_settings)
         return saml_client
+
+    @property
+    def name(self):
+        raise NotImplementedError

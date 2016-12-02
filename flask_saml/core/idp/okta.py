@@ -6,3 +6,10 @@
     :copyright: (c) 2012 by Tony Tan.
     :license: MIT, see LICENSE for more details.
 """
+
+
+class OktaIdentityProvider(object):
+
+    @property
+    def name(self):
+        return "Okata"
