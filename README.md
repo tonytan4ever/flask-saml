@@ -12,6 +12,7 @@ Aiming Feature list:
 1. https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language
 2. http://stackoverflow.com/questions/27932899/saml-2-0-service-provider-in-python
 3. https://github.com/jpf/okta-pysaml2-example
+4. https://docs.openstack.org/developer/keystone/federation/federated_identity.html
 
 ## Installation
 
